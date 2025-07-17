@@ -53,7 +53,7 @@ Please apply the following updates:
 
 ---
 
-## 📘 Open Science Articles (OSAs)
+## 📘 Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM)
 
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
