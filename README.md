@@ -104,6 +104,51 @@ Lütfen aşağıdaki düzenlemeleri yapınız:
 - Eski yayın ve DOI bilgilerini başlıktan kaldırınız.
 - Eski DOI bilgisini başlıkta da siliniz.
 - Bu bilgileri lütfen referanslar bölümüne ekleyiniz.
+  
+---
+## Published Articles
+
+1. Keçeci, M. (2025). *kececilayout*. Zenodo. https://doi.org/10.5281/zenodo.15974533
+1. Keçeci, M. (2025). *The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis*. Zenodo. https://doi.org/10.5281/zenodo.15929357
+1. Keçeci, M. (2025). *oresmej*. Zenodo. https://doi.org/10.5281/zenodo.15874179
+1. Keçeci, M. (2025). *Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers*. Zenodo. https://doi.org/10.5281/zenodo.15838231
+1. Keçeci, M. (2025). *Oresme*. Zenodo. https://doi.org/10.5281/zenodo.15833239
+1. Keçeci, M. (2025). *Nodal-Line Semimetals: A Geometric Advantage in Quantum Information*. Zenodo. https://doi.org/10.5281/zenodo.15821402
+1. Keçeci, M. (2025). *Weyl Semimetals: Discovery of Exotic Electronic States and Topological Phases*. Zenodo. https://doi.org/10.5281/zenodo.15814163
+1. Keçeci, M. (2025). *Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Teknolojileri Arasındaki Teknolojik ve Metodolojik Bağlantılar*. Zenodo. https://doi.org/10.5281/zenodo.15784849
+1. Keçeci, M. (2025). *The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies*. Zenodo. https://doi.org/10.5281/zenodo.15784848
+1. Keçeci, M. (2025). *Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal*. Zenodo. https://doi.org/10.5281/zenodo.15778442
+1. Keçeci, M. (2025). *kececifractals*. Zenodo. https://doi.org/10.5281/zenodo.15775380
+1. Keçeci, M. (2025). *Keçeci Layout*. Zenodo. https://doi.org/10.5281/zenodo.15747336
+1. Keçeci, M. (2025). *The Keçeci Binomial Square: A Reinterpretation of the Standard Binomial Expansion and Its Potential Applications*. Zenodo. https://doi.org/10.5281/zenodo.15711301
+1. Keçeci, M. (2025). *Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri*. Zenodo. https://doi.org/10.5281/zenodo.15592206
+1. Keçeci, M. (2025). *Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri*. Zenodo. https://doi.org/10.5281/zenodo.15589888
+1. Keçeci, M. (2025). *Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool*. Zenodo. https://doi.org/10.5281/zenodo.15589625
+1. Keçeci, M. (2025). *Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi*. Zenodo. https://doi.org/10.5281/zenodo.15570679
+1. Keçeci, M. (2025). *Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar*. Zenodo. https://doi.org/10.5281/zenodo.15570648
+1. Keçeci, M. (2025). *Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu*. Zenodo. https://doi.org/10.5281/zenodo.15540876
+1. Keçeci, M. (2025). *Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond*. Zenodo. https://doi.org/10.5281/zenodo.15515114
+1. Keçeci, M. (2025). *Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives*. Zenodo. https://doi.org/10.5281/zenodo.15499658
+1. Keçeci, M. (2025). *Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives*. Zenodo. https://doi.org/10.5281/zenodo.15493025
+1. Keçeci, M. (2025). *Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model*. Zenodo. https://doi.org/10.5281/zenodo.15489075
+1. Keçeci, M. (2025). *Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration*. Zenodo. https://doi.org/10.5281/zenodo.15483569
+1. Keçeci, M. (2025). *Kuantum Geometri, Topolojik Fazlar ve Yeni Matematiksel Yapılar: Disiplinlerarası Bir Perspektif*. Zenodo. https://doi.org/10.5281/zenodo.15477257
+1. Keçeci, M. (2025). *Understanding Quantum Mechanics through Hilbert Spaces: Applications in Quantum Computing*. Zenodo. https://doi.org/10.5281/zenodo.15468794
+1. Keçeci, M. (2025). *From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era*. Zenodo. https://doi.org/10.5281/zenodo.15425639
+1. Keçeci, M. (2025). *kececisquares*. Zenodo. https://doi.org/10.5281/zenodo.15411671
+1. Keçeci, M. (2025). *kececinumbers*. Zenodo. https://doi.org/10.5281/zenodo.15381417
+1. Keçeci, M. (2025). *Grikod2*. Zenodo. https://doi.org/10.5281/zenodo.15352207
+1. Keçeci, M. (2025). *Grikod*. Zenodo. https://doi.org/10.5281/zenodo.15351842
+1. Perera, R., Valamontes Center For Scientific Publication (2024). *Resolution of the Vacuum Catastrophe from a New Quantum Scale and the Holographic Principle*. Zenodo. https://doi.org/10.5281/zenodo.15320034
+1. Von schomberg, R. (2024). *Towards a New Ethos of Science or a Reform of the Institution of Science? Merton Revisited and the Prospects of Institutionalizing the Research Values of Openness and Mutual Responsiveness*. Zenodo. https://doi.org/10.5380/nocsi.v0i6.95874
+1. Leone, P. (2023). *Using serinus canaria species in pet therapy sessions, related to geriatric patients*. Zenodo. https://doi.org/10.5281/zenodo.11094365
+1. Leone, P. (2024). *Unexpected synergies*. Zenodo. https://doi.org/10.5281/zenodo.11040009
+1. Muguet de Magalhães, D. (2025). *Spectral Coherence and Geometric Reformulation of the Riemann Hypothesis via Torsion-Free Vector Waves*. Zenodo. https://doi.org/10.5281/zenodo.15824378
+1. alberti, g. (2025). *A Unified Theoretical Framework Bridging Quantum Mechanics and Planetary Dynamics*. Zenodo. https://doi.org/10.5281/zenodo.15240414
+1. alberti, g. (2025). *Unveiling the Ultimate Theory of Planetary Genesis: A Mathematical Resolution Fully Interpreting the Solar System and Beyond*. Zenodo. https://doi.org/10.5281/zenodo.15234044
+1. Yang, J., Valamontes Center For Scientific Publication (2025). *World Quantum Theory: A Unified Framework for Quantum and Classical Physics from a Frequency Perspective*. Zenodo. https://doi.org/10.5281/zenodo.14959353
+
+---  
 
 ## Published Articles
 
