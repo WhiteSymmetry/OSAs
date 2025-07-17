@@ -3,15 +3,14 @@
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
 ---
+<h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABM) Topluluğu</h2>
+<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2025-07-17 16:50:03</p>
 
 | İngilizce / English | Türkçe / Turkish |
 |---------------------|------------------|
 | **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-07-17 16:50:03<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 39<br>- **Total Views:** 10819<br>- **Total Downloads:** 12366 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-07-17 16:50:03<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 39<br>- **Toplam Görüntülenme:** 10819<br>- **Toplam İndirme:** 12366 |
 
 ---
-<h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABM) Topluluğu</h2>
-<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2025-07-17 16:50:03</p>
-
 <table border="1" class="dataframe" style="width:100%; border-collapse: collapse;">
   <thead>
     <tr style="text-align: center;">
