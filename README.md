@@ -3,7 +3,7 @@
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
 ---
-### Science Should Be Free for All
+### ⚠️ Science Should Be Free for All
 
 Open Science Articles (OSAs) ensure that research is freely available to everyone. Removing paywalls promotes wider access to knowledge, encourages collaboration, and accelerates innovation. By making scientific findings publicly accessible, we empower communities, support education, and foster global progress.
 
@@ -63,7 +63,7 @@ Please apply the following updates:
 ### [Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM) Topluluk Linki](https://zenodo.org/communities/bilginomi/records)
 
 ---
-### Bilimsel Bilgi Herkese Açık Olmalı
+### ⚠️ Bilimsel Bilgi Herkese Açık Olmalı
 
 Bilimsel ilerleme toplumun ortak mirasıdır. Açık Bilim Makaleleri (ABM), araştırmaların tüm dünyaya açık, ücretsiz ve engelsiz olarak erişilebilmesini sağlar. Bu sayede öğrenciler, araştırmacılar ve meraklıları bilgiye doğrudan ulaşabilir, yenilik teşviki artar ve toplumsal fayda maksimize edilir.
 
@@ -116,7 +116,7 @@ Lütfen aşağıdaki düzenlemeleri yapınız:
 - Bu bilgileri lütfen referanslar bölümüne ekleyiniz.
   
 ---
-## Published Articles
+### 📘 Published Articles
 
 1. Keçeci, M. (2025). *kececilayout*. Zenodo. https://doi.org/10.5281/zenodo.15974533
 1. Keçeci, M. (2025). *The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis*. Zenodo. https://doi.org/10.5281/zenodo.15929357
