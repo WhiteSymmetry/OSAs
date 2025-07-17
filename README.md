@@ -3,18 +3,18 @@
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
 ---
-# 📊 Open Science Articles (OSAs) Community  
+### 📊 Open Science Articles (OSAs) Community  
 **Last Updated:** 2025-04-06 14:22:15
 
-## 📦 General Statistics
+### 📦 General Statistics
 - **Total Number of Articles:** 127  
 - **Total Views:** 9,852  
 - **Total Downloads:** 4,310
 
-# 📊 Open Science Articles (OSAs) Community
+### 📊 Open Science Articles (OSAs) Community
 **Güncellenme Zamanı:** 2025-04-06 14:22:15
 
-## 📦 Genel İstatistikler
+### 📦 Genel İstatistikler
 - **Toplam Makale Sayısı:** 127
 - **Toplam Görüntülenme:** 9852
 - **Toplam İndirme:** 4310
