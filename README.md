@@ -9,23 +9,7 @@
 | **### 📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-07-17 16:50:03<br><br>**### 📦 General Statistics**<br>- **Total Number of Articles:** 39<br>- **Total Views:** 10819<br>- **Total Downloads:** 12366 | **### 📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-07-17 16:50:03<br><br>**### 📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 39<br>- **Toplam Görüntülenme:** 10819<br>- **Toplam İndirme:** 12366 |
 
 ---
-### 📊 Open Science Articles (OSAs) Community  
-**Last Updated:** 22025-07-17 16:50:03
 
-### 📦 General Statistics
-- **Total Number of Articles:** 39  
-- **Total Views:** 10819  
-- **Total Downloads:** 12366
-
-### 📊 Open Science Articles (OSAs) Community
-**Güncellenme Zamanı:** 2025-07-17 16:50:03
-
-### 📦 Genel İstatistikler
-- **Toplam Makale Sayısı:** 39
-- **Toplam Görüntülenme:** 10819
-- **Toplam İndirme:** 12366
-
----  
 ### ⚠️ Science Should Be Free for All
 
 Open Science Articles (OSAs) ensure that research is freely available to everyone. Removing paywalls promotes wider access to knowledge, encourages collaboration, and accelerates innovation. By making scientific findings publicly accessible, we empower communities, support education, and foster global progress.
