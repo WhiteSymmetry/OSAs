@@ -6,24 +6,24 @@
 
 | İngilizce / English | Türkçe / Turkish |
 |---------------------|------------------|
-| **### 📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-04-06 14:22:15<br><br>**### 📦 General Statistics**<br>- **Total Number of Articles:** 127<br>- **Total Views:** 9,852<br>- **Total Downloads:** 4,310 | **### 📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-04-06 14:22:15<br><br>**### 📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 127<br>- **Toplam Görüntülenme:** 9.852<br>- **Toplam İndirme:** 4.310 |
+| **### 📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-07-17 16:50:03<br><br>**### 📦 General Statistics**<br>- **Total Number of Articles:** 39<br>- **Total Views:** 10819<br>- **Total Downloads:** 12366 | **### 📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-07-17 16:50:03<br><br>**### 📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 39<br>- **Toplam Görüntülenme:** 10819<br>- **Toplam İndirme:** 12366 |
 
 ---
 ### 📊 Open Science Articles (OSAs) Community  
-**Last Updated:** 2025-04-06 14:22:15
+**Last Updated:** 22025-07-17 16:50:03
 
 ### 📦 General Statistics
-- **Total Number of Articles:** 127  
-- **Total Views:** 9,852  
-- **Total Downloads:** 4,310
+- **Total Number of Articles:** 39  
+- **Total Views:** 10819  
+- **Total Downloads:** 12366
 
 ### 📊 Open Science Articles (OSAs) Community
-**Güncellenme Zamanı:** 2025-04-06 14:22:15
+**Güncellenme Zamanı:** 2025-07-17 16:50:03
 
 ### 📦 Genel İstatistikler
-- **Toplam Makale Sayısı:** 127
-- **Toplam Görüntülenme:** 9852
-- **Toplam İndirme:** 4310
+- **Toplam Makale Sayısı:** 39
+- **Toplam Görüntülenme:** 10819
+- **Toplam İndirme:** 12366
 
 ---  
 ### ⚠️ Science Should Be Free for All
