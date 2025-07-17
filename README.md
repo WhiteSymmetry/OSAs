@@ -46,6 +46,7 @@ Please apply the following updates:
 - Please include this information in the references section.
 
 ---
+---
 
 ## 📘 Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM)
 
