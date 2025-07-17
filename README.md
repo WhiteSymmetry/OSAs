@@ -3,6 +3,11 @@
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
 ---
+## 📝 Review policy
+
+All submissions to the community undergo a mandatory peer-review process. This scholarly evaluation ensures that contributions meet academic standards, maintain scientific accuracy, and add value to the field of study.
+
+---
 
 ## 📝 Curation Policy: Only Scientific Fields
 
@@ -51,6 +56,11 @@ Please apply the following updates:
 ## 📘 Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM)
 
 ### [Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM) Topluluk Linki](https://zenodo.org/communities/bilginomi/records)
+
+---
+### 📝 Hakemlik Süreci
+
+Topluluğa sunulan tüm makaleler zorunlu bir hakemlik sürecine tabidir. Bu akademik değerlendirme süreci, katkıların bilimsel standartlara uygun olduğunu, verilerin güvenilir olduğunu ve alan için değer katıldığını garanti altına alır.
 
 ---
 
