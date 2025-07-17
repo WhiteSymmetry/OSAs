@@ -140,12 +140,12 @@ Lütfen aşağıdaki düzenlemeleri yapınız:
 1. Keçeci, M. (2025). *Grikod2*. Zenodo. https://doi.org/10.5281/zenodo.15352207
 1. Keçeci, M. (2025). *Grikod*. Zenodo. https://doi.org/10.5281/zenodo.15351842
 1. Perera, R., Valamontes Center For Scientific Publication (2024). *Resolution of the Vacuum Catastrophe from a New Quantum Scale and the Holographic Principle*. Zenodo. https://doi.org/10.5281/zenodo.15320034
-1. Von schomberg, R. (2024). *Towards a New Ethos of Science or a Reform of the Institution of Science? Merton Revisited and the Prospects of Institutionalizing the Research Values of Openness and Mutual Responsiveness*. Zenodo. https://doi.org/10.5380/nocsi.v0i6.95874
+1. Von Schomberg, R. (2024). *Towards a New Ethos of Science or a Reform of the Institution of Science? Merton Revisited and the Prospects of Institutionalizing the Research Values of Openness and Mutual Responsiveness*. Zenodo. https://doi.org/10.5380/nocsi.v0i6.95874
 1. Leone, P. (2023). *Using serinus canaria species in pet therapy sessions, related to geriatric patients*. Zenodo. https://doi.org/10.5281/zenodo.11094365
 1. Leone, P. (2024). *Unexpected synergies*. Zenodo. https://doi.org/10.5281/zenodo.11040009
 1. Muguet de Magalhães, D. (2025). *Spectral Coherence and Geometric Reformulation of the Riemann Hypothesis via Torsion-Free Vector Waves*. Zenodo. https://doi.org/10.5281/zenodo.15824378
-1. alberti, g. (2025). *A Unified Theoretical Framework Bridging Quantum Mechanics and Planetary Dynamics*. Zenodo. https://doi.org/10.5281/zenodo.15240414
-1. alberti, g. (2025). *Unveiling the Ultimate Theory of Planetary Genesis: A Mathematical Resolution Fully Interpreting the Solar System and Beyond*. Zenodo. https://doi.org/10.5281/zenodo.15234044
+1. Alberti, G. (2025). *A Unified Theoretical Framework Bridging Quantum Mechanics and Planetary Dynamics*. Zenodo. https://doi.org/10.5281/zenodo.15240414
+1. Alberti, G. (2025). *Unveiling the Ultimate Theory of Planetary Genesis: A Mathematical Resolution Fully Interpreting the Solar System and Beyond*. Zenodo. https://doi.org/10.5281/zenodo.15234044
 1. Yang, J., Valamontes Center For Scientific Publication (2025). *World Quantum Theory: A Unified Framework for Quantum and Classical Physics from a Frequency Perspective*. Zenodo. https://doi.org/10.5281/zenodo.14959353
 
 ---  
