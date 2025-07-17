@@ -3,9 +3,53 @@
 
  ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
- ---
- https://zenodo.org/communities/bilginomi/records
+---
+# 📘 Open Science Articles (OSAs)
 
+### [Zenodo Community Link](https://zenodo.org/communities/bilginomi/records)
+
+---
+
+## 📝 Curation Policy: Only Scientific Fields
+
+This policy aims to focus exclusively on content related to scientific fields. It includes information directly connected to scientific research, theories, concepts, and methods. However, content lacking a scientific basis or relying on speculative discussions is excluded.
+
+Scientific fields may include disciplines such as physics, chemistry, biology, mathematics, astronomy, engineering, and social sciences.
+
+This curation policy is enforced to ensure scientific accuracy, maintain evidence-based discussions, and preserve the reliability of the presented data.
+
+---
+
+## 📊 Summary Table
+
+The table below provides an overview of the main sections typically included in a scientific publication, along with their usual word ranges:
+
+| Section             | Description                                      | Word Range        |
+|---------------------|--------------------------------------------------|-------------------|
+| Orcid ID            | Mandatory for each author                        | -                 |
+| Title               | Concise title reflecting the study               | 8–15 words        |
+| Abstract            | Summary of the study                             | 150–250 words     |
+| Keywords            | Key terms related to the topic                   | 4–8 words/phrases |
+| Introduction        | Purpose and significance of the study            | 300–600 words     |
+| Methods             | Research methods                                 | 500–1000 words    |
+| Results             | Findings of the research                         | 300–800 words     |
+| Discussion          | Interpretation of findings                       | 500–1000 words    |
+| Conclusion          | Main conclusions and suggestions                 | 150–300 words     |
+| Acknowledgments     | Acknowledgment of contributors                   | 50–150 words      |
+| References          | Cited references                                 | Variable (10–50)  |
+| Appendices (Optional) | Additional information                        | Variable          |
+
+> **Note:** Different journals or disciplines may adjust these word ranges slightly; however, the overall structure generally remains consistent.
+
+---
+
+## ⚠️ Note: Old Published Articles
+
+Please apply the following updates:
+
+- Remove old publication and DOI details from the header.
+- Delete the old DOI information from the title.
+- Please include this information in the references section.
 
 ---
 
