@@ -3,6 +3,11 @@
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
 ---
+### Science Should Be Free for All
+
+Open Science Articles (OSAs) ensure that research is freely available to everyone. Removing paywalls promotes wider access to knowledge, encourages collaboration, and accelerates innovation. By making scientific findings publicly accessible, we empower communities, support education, and foster global progress.
+
+---
 ### 📝 Review policy
 
 All submissions to the community undergo a mandatory peer-review process. This scholarly evaluation ensures that contributions meet academic standards, maintain scientific accuracy, and add value to the field of study.
@@ -56,6 +61,11 @@ Please apply the following updates:
 ## 📘 Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM)
 
 ### [Open Science Articles (OSAs): Açık Bilim Makaleleri (ABM) Topluluk Linki](https://zenodo.org/communities/bilginomi/records)
+
+---
+### Bilimsel Bilgi Herkese Açık Olmalı
+
+Bilimsel ilerleme toplumun ortak mirasıdır. Açık Bilim Makaleleri (ABM), araştırmaların tüm dünyaya açık, ücretsiz ve engelsiz olarak erişilebilmesini sağlar. Bu sayede öğrenciler, araştırmacılar ve meraklıları bilgiye doğrudan ulaşabilir, yenilik teşviki artar ve toplumsal fayda maksimize edilir.
 
 ---
 ### 📝 Hakemlik Süreci
