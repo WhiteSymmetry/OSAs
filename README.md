@@ -9,6 +9,39 @@
 | **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-07-17 16:50:03<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 39<br>- **Total Views:** 10819<br>- **Total Downloads:** 12366 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-07-17 16:50:03<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 39<br>- **Toplam Görüntülenme:** 10819<br>- **Toplam İndirme:** 12366 |
 
 ---
+<h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABM) Topluluğu</h2>
+<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2025-07-17 16:50:03</p>
+
+<table border="1" class="dataframe" style="width:100%; border-collapse: collapse;">
+  <thead>
+    <tr style="text-align: center;">
+      <th style="width:50%; padding: 10px;">English</th>
+      <th style="width:50%; padding: 10px;">Türkçe</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top; padding: 10px;">
+        <h3>📄 General Statistics</h3>
+        <ul>
+          <li><strong>Total Number of Articles:</strong> 39</li>
+          <li><strong>Total Views:</strong> 10,819</li>
+          <li><strong>Total Downloads:</strong> 12,366</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top; padding: 10px;">
+        <h3>📄 Genel İstatistikler</h3>
+        <ul>
+          <li><strong>Toplam Makale Sayısı:</strong> 39</li>
+          <li><strong>Toplam Görüntülenme:</strong> 10.819</li>
+          <li><strong>Toplam İndirme:</strong> 12.366</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 ### ⚠️ Science Should Be Free for All
 
