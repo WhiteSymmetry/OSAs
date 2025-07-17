@@ -3,13 +3,13 @@
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
 ---
-## 📝 Review policy
+### 📝 Review policy
 
 All submissions to the community undergo a mandatory peer-review process. This scholarly evaluation ensures that contributions meet academic standards, maintain scientific accuracy, and add value to the field of study.
 
 ---
 
-## 📝 Curation Policy: Only Scientific Fields
+### 📝 Curation Policy: Only Scientific Fields
 
 This policy aims to focus exclusively on content related to scientific fields. It includes information directly connected to scientific research, theories, concepts, and methods. However, content lacking a scientific basis or relying on speculative discussions is excluded.
 
@@ -19,7 +19,7 @@ This curation policy is enforced to ensure scientific accuracy, maintain evidenc
 
 ---
 
-## 📊 Summary Table
+### 📊 Summary Table
 
 The table below provides an overview of the main sections typically included in a scientific publication, along with their usual word ranges:
 
@@ -42,7 +42,7 @@ The table below provides an overview of the main sections typically included in 
 
 ---
 
-## ⚠️ Note: Old Published Articles
+### ⚠️ Note: Old Published Articles
 
 Please apply the following updates:
 
