@@ -202,3 +202,12 @@ Lütfen aşağıdaki düzenlemeleri yapınız:
 1. Unveiling the Ultimate Theory of Planetary Genesis: A Mathematical Resolution Fully Interpreting the Solar System and Beyond - https://zenodo.org/records/15234044
 1. World Quantum Theory: A Unified Framework for Quantum and Classical Physics from a Frequency Perspective - https://zenodo.org/records/14959353
 
+---
+## Wiki
+
+1. https://en.wikipedia.org/wiki/Talk:Open_Science_Articles_(OSAs)
+1. https://www.wikidata.org/wiki/Q135399992
+1. https://en.wikipedia.org/w/index.php?title=Talk:Open_Science_Articles_(OSAs)&oldid=1300963350
+
+---
+
