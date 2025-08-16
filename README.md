@@ -4,11 +4,20 @@
 
 ---
 <h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABM) Topluluğu</h2>
-<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2025-07-17 16:50:03</p>
+<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2025-08-16 13:25:46</p>
 
 | İngilizce / English | Türkçe / Turkish |
 |---------------------|------------------|
-| **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-07-17 16:50:03<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 39<br>- **Total Views:** 10819<br>- **Total Downloads:** 12366 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-07-17 16:50:03<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 39<br>- **Toplam Görüntülenme:** 10819<br>- **Toplam İndirme:** 12366 |
+| **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-08-16 13:25:46<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 54<br>- **Total Views:** 13168<br>- **Total Downloads:** 14427 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-08-16 13:25:46<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 54<br>- **Toplam Görüntülenme:** 13168<br>- **Toplam İndirme:** 14427 |
+---
+
+# 📊 Bilginomi Topluluğu İstatistik Raporu
+**Güncellenme Zamanı:** 2025-08-16 13:25:46
+
+## 📦 Genel İstatistikler
+- **Toplam Makale Sayısı:** 54
+- **Toplam Görüntülenme:** 13168
+- **Toplam İndirme:** 14427
 
 ---
 <table border="1" class="dataframe" style="width:100%; border-collapse: collapse;">
@@ -157,96 +166,229 @@ Lütfen aşağıdaki düzenlemeleri yapınız:
 ---
 ### 📘 Published Articles
 
-1. Keçeci, M. (2025). *kececilayout*. Zenodo. https://doi.org/10.5281/zenodo.15974533
-1. Keçeci, M. (2025). *The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis*. Zenodo. https://doi.org/10.5281/zenodo.15929357
-1. Keçeci, M. (2025). *oresmej*. Zenodo. https://doi.org/10.5281/zenodo.15874179
-1. Keçeci, M. (2025). *Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers*. Zenodo. https://doi.org/10.5281/zenodo.15838231
-1. Keçeci, M. (2025). *Oresme*. Zenodo. https://doi.org/10.5281/zenodo.15833239
-1. Keçeci, M. (2025). *Nodal-Line Semimetals: A Geometric Advantage in Quantum Information*. Zenodo. https://doi.org/10.5281/zenodo.15821402
-1. Keçeci, M. (2025). *Weyl Semimetals: Discovery of Exotic Electronic States and Topological Phases*. Zenodo. https://doi.org/10.5281/zenodo.15814163
-1. Keçeci, M. (2025). *Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Teknolojileri Arasındaki Teknolojik ve Metodolojik Bağlantılar*. Zenodo. https://doi.org/10.5281/zenodo.15784849
-1. Keçeci, M. (2025). *The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies*. Zenodo. https://doi.org/10.5281/zenodo.15784848
-1. Keçeci, M. (2025). *Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal*. Zenodo. https://doi.org/10.5281/zenodo.15778442
-1. Keçeci, M. (2025). *kececifractals*. Zenodo. https://doi.org/10.5281/zenodo.15775380
-1. Keçeci, M. (2025). *Keçeci Layout*. Zenodo. https://doi.org/10.5281/zenodo.15747336
-1. Keçeci, M. (2025). *The Keçeci Binomial Square: A Reinterpretation of the Standard Binomial Expansion and Its Potential Applications*. Zenodo. https://doi.org/10.5281/zenodo.15711301
-1. Keçeci, M. (2025). *Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri*. Zenodo. https://doi.org/10.5281/zenodo.15592206
-1. Keçeci, M. (2025). *Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri*. Zenodo. https://doi.org/10.5281/zenodo.15589888
-1. Keçeci, M. (2025). *Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool*. Zenodo. https://doi.org/10.5281/zenodo.15589625
-1. Keçeci, M. (2025). *Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi*. Zenodo. https://doi.org/10.5281/zenodo.15570679
-1. Keçeci, M. (2025). *Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar*. Zenodo. https://doi.org/10.5281/zenodo.15570648
-1. Keçeci, M. (2025). *Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu*. Zenodo. https://doi.org/10.5281/zenodo.15540876
-1. Keçeci, M. (2025). *Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond*. Zenodo. https://doi.org/10.5281/zenodo.15515114
-1. Keçeci, M. (2025). *Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives*. Zenodo. https://doi.org/10.5281/zenodo.15499658
-1. Keçeci, M. (2025). *Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives*. Zenodo. https://doi.org/10.5281/zenodo.15493025
-1. Keçeci, M. (2025). *Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model*. Zenodo. https://doi.org/10.5281/zenodo.15489075
-1. Keçeci, M. (2025). *Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration*. Zenodo. https://doi.org/10.5281/zenodo.15483569
-1. Keçeci, M. (2025). *Kuantum Geometri, Topolojik Fazlar ve Yeni Matematiksel Yapılar: Disiplinlerarası Bir Perspektif*. Zenodo. https://doi.org/10.5281/zenodo.15477257
-1. Keçeci, M. (2025). *Understanding Quantum Mechanics through Hilbert Spaces: Applications in Quantum Computing*. Zenodo. https://doi.org/10.5281/zenodo.15468794
-1. Keçeci, M. (2025). *From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era*. Zenodo. https://doi.org/10.5281/zenodo.15425639
-1. Keçeci, M. (2025). *kececisquares*. Zenodo. https://doi.org/10.5281/zenodo.15411671
-1. Keçeci, M. (2025). *kececinumbers*. Zenodo. https://doi.org/10.5281/zenodo.15381417
-1. Keçeci, M. (2025). *Grikod2*. Zenodo. https://doi.org/10.5281/zenodo.15352207
-1. Keçeci, M. (2025). *Grikod*. Zenodo. https://doi.org/10.5281/zenodo.15351842
-1. Perera, R., Valamontes Center For Scientific Publication (2024). *Resolution of the Vacuum Catastrophe from a New Quantum Scale and the Holographic Principle*. Zenodo. https://doi.org/10.5281/zenodo.15320034
-1. Von Schomberg, R. (2024). *Towards a New Ethos of Science or a Reform of the Institution of Science? Merton Revisited and the Prospects of Institutionalizing the Research Values of Openness and Mutual Responsiveness*. Zenodo. https://doi.org/10.5380/nocsi.v0i6.95874
-1. Leone, P. (2023). *Using serinus canaria species in pet therapy sessions, related to geriatric patients*. Zenodo. https://doi.org/10.5281/zenodo.11094365
-1. Leone, P. (2024). *Unexpected synergies*. Zenodo. https://doi.org/10.5281/zenodo.11040009
-1. Muguet de Magalhães, D. (2025). *Spectral Coherence and Geometric Reformulation of the Riemann Hypothesis via Torsion-Free Vector Waves*. Zenodo. https://doi.org/10.5281/zenodo.15824378
-1. Alberti, G. (2025). *A Unified Theoretical Framework Bridging Quantum Mechanics and Planetary Dynamics*. Zenodo. https://doi.org/10.5281/zenodo.15240414
-1. Alberti, G. (2025). *Unveiling the Ultimate Theory of Planetary Genesis: A Mathematical Resolution Fully Interpreting the Solar System and Beyond*. Zenodo. https://doi.org/10.5281/zenodo.15234044
-1. Yang, J., Valamontes Center For Scientific Publication (2025). *World Quantum Theory: A Unified Framework for Quantum and Classical Physics from a Frequency Perspective*. Zenodo. https://doi.org/10.5281/zenodo.14959353
+# 📊 Bilginomi Topluluğu İstatistik Raporu
+**Güncellenme Zamanı:** 2025-08-16 13:25:46
 
----  
+## 📦 Genel İstatistikler
+- **Toplam Makale Sayısı:** 54
+- **Toplam Görüntülenme:** 13168
+- **Toplam İndirme:** 14427
 
-## Published Articles
+## 📰 Son 100 Yayın
+1. [Graf Teorisi Eğitiminde Yeni Bir Araç: Z3 ve Keçeci Dizilimi ile Hamilton Probleminin İnteraktif Keşfi](https://zenodo.org/records/16883658)
+   - DOI: 10.5281/zenodo.16883658
+   - Görüntülenme: 4, İndirilme: 7
 
-1. kececilayout - https://zenodo.org/records/15974533
-1. The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis - https://zenodo.org/records/15929357
-1. oresmej - https://zenodo.org/records/15874179
-1. Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers - https://zenodo.org/records/15838231
-1. Oresme - https://zenodo.org/records/15833239
-1. Nodal-Line Semimetals: A Geometric Advantage in Quantum Information - https://zenodo.org/records/15821402
-1. Weyl Semimetals: Discovery of Exotic Electronic States and Topological Phases - https://zenodo.org/records/15814163
-1. Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Teknolojileri Arasındaki Teknolojik ve Metodolojik Bağlantılar - https://zenodo.org/records/15784849
-1. The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies - https://zenodo.org/records/15784848
-1. Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal - https://zenodo.org/records/15778442
-1. kececifractals - https://zenodo.org/records/15775380
-1. Keçeci Layout - https://zenodo.org/records/15747336
-1. The Keçeci Binomial Square: A Reinterpretation of the Standard Binomial Expansion and Its Potential Applications - https://zenodo.org/records/15711301
-1. Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri - https://zenodo.org/records/15592206
-1. Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri - https://zenodo.org/records/15589888
-1. Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool - https://zenodo.org/records/15589625
-1. Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi - https://zenodo.org/records/15570679
-1. Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar - https://zenodo.org/records/15570648
-1. Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu - https://zenodo.org/records/15540876
-1. Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond - https://zenodo.org/records/15515114
-1. Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives - https://zenodo.org/records/15499658
-1. Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives - https://zenodo.org/records/15493025
-1. Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model - https://zenodo.org/records/15489075
-1. Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration - https://zenodo.org/records/15483569
-1. Kuantum Geometri, Topolojik Fazlar ve Yeni Matematiksel Yapılar: Disiplinlerarası Bir Perspektif - https://zenodo.org/records/15477257
-1. Understanding Quantum Mechanics through Hilbert Spaces: Applications in Quantum Computing - https://zenodo.org/records/15468794
-1. From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era - https://zenodo.org/records/15425639
-1. kececisquares - https://zenodo.org/records/15411671
-1. kececinumbers - https://zenodo.org/records/15381417
-1. Grikod2 - https://zenodo.org/records/15352207
-1. Grikod - https://zenodo.org/records/15351842
-1. Resolution of the Vacuum Catastrophe from a New Quantum Scale and the Holographic Principle - https://zenodo.org/records/15320034
-1. Towards a New Ethos of Science or a Reform of the Institution of Science? Merton Revisited and the Prospects of Institutionalizing the Research Values of Openness and Mutual Responsiveness - https://zenodo.org/records/12731194
-1. Using serinus canaria species in pet therapy sessions, related to geriatric patients - https://zenodo.org/records/11094365
-1. Unexpected synergies - https://zenodo.org/records/11040009
-1. Spectral Coherence and Geometric Reformulation of the Riemann Hypothesis via Torsion-Free Vector Waves - https://zenodo.org/records/15824378
-1. A Unified Theoretical Framework Bridging Quantum Mechanics and Planetary Dynamics - https://zenodo.org/records/15240414
-1. Unveiling the Ultimate Theory of Planetary Genesis: A Mathematical Resolution Fully Interpreting the Solar System and Beyond - https://zenodo.org/records/15234044
-1. World Quantum Theory: A Unified Framework for Quantum and Classical Physics from a Frequency Perspective - https://zenodo.org/records/14959353
+2. [Understanding Quantum Mechanics through Hilbert Spaces: Applications in Quantum Computing](https://zenodo.org/records/16881980)
+   - DOI: 10.5281/zenodo.16881980
+   - Görüntülenme: 168, İndirilme: 358
 
----
-## Wiki
+3. [Investigating Layered Structures Containing Weyl and Majorana Fermions via the Stratum Model](https://zenodo.org/records/16778585)
+   - DOI: 10.5281/zenodo.16778585
+   - Görüntülenme: 79, İndirilme: 67
 
-1. https://en.wikipedia.org/wiki/Talk:Open_Science_Articles_(OSAs)
-1. https://www.wikidata.org/wiki/Q135399992
-1. https://en.wikipedia.org/w/index.php?title=Talk:Open_Science_Articles_(OSAs)&oldid=1300963350
+4. [Dynamic vs Static Number Sequences: The Case of Keçeci and Oresme Numbers](https://zenodo.org/records/16762251)
+   - DOI: 10.5281/zenodo.16762251
+   - Görüntülenme: 120, İndirilme: 65
 
+5. [Kuantum Algoritmalarında Veri Kodlama ve Kuantizasyon Arasındaki İlişkinin Analizi ve Keçeci Layout ile Max-Cut Problemi](https://zenodo.org/records/16755187)
+   - DOI: 10.5281/zenodo.16755187
+   - Görüntülenme: 6, İndirilme: 6
+
+6. [Keçeci Varsayımı: Collatz Genelleştirmesi Olarak Çoklu Cebirsel Sistemlerde Yinelemeli Dinamikler](https://zenodo.org/records/16743628)
+   - DOI: 10.5281/zenodo.16743628
+   - Görüntülenme: 69, İndirilme: 35
+
+7. [kececinumbers](https://zenodo.org/records/16731910)
+   - DOI: 10.5281/zenodo.16731910
+   - Görüntülenme: 415, İndirilme: 440
+
+8. [The Keçeci Layout: A Deterministic Visualisation Framework for the Structural Analysis of Ordered Systems in Chemistry and Environmental Science](https://zenodo.org/records/16696714)
+   - DOI: 10.5281/zenodo.16696714
+   - Görüntülenme: 41, İndirilme: 20
+
+9. [oresmen](https://zenodo.org/records/16634187)
+   - DOI: 10.5281/zenodo.16634187
+   - Görüntülenme: 55, İndirilme: 24
+
+10. [Geometric Interpretations of Keçeci Numbers with Neutrosophic and Hyperreal Numbers](https://zenodo.org/records/16628068)
+   - DOI: 10.5281/zenodo.16628068
+   - Görüntülenme: 80, İndirilme: 36
+
+11. [Keçeci Sayılarının Nötrosofik ve Hipergerçek Sayılarla Geometrik Yorumlamaları](https://zenodo.org/records/16628067)
+   - DOI: 10.5281/zenodo.16628067
+   - Görüntülenme: 73, İndirilme: 35
+
+12. [A Comparative Study of Pure Python and JAX-Based Approaches in Computing Harmonic Series](https://zenodo.org/records/16627478)
+   - DOI: 10.5281/zenodo.16627478
+   - Görüntülenme: 11, İndirilme: 15
+
+13. [Harmonik Serilerin Hesaplanmasında Saf Python ve JAX Tabanlı Yaklaşımların Karşılaştırılması](https://zenodo.org/records/16627475)
+   - DOI: 10.5281/zenodo.16627475
+   - Görüntülenme: 17, İndirilme: 20
+
+14. [The Keçeci Layout: A Deterministic, Order-Preserving Visualization Algorithm for Structured Systems](https://zenodo.org/records/16526799)
+   - DOI: 10.5281/zenodo.16526799
+   - Görüntülenme: 41, İndirilme: 19
+
+15. [adnus](https://zenodo.org/records/16341920)
+   - DOI: 10.5281/zenodo.16341920
+   - Görüntülenme: 75, İndirilme: 13
+
+16. [The Keçeci Layout: A Structural Approach for Interdisciplinary Scientific Analysis](https://zenodo.org/records/16115596)
+   - DOI: 10.5281/zenodo.16115596
+   - Görüntülenme: 94, İndirilme: 74
+
+17. [kececilayout](https://zenodo.org/records/15974533)
+   - DOI: 10.5281/zenodo.15974533
+   - Görüntülenme: 299, İndirilme: 204
+
+18. [oresmej](https://zenodo.org/records/15874179)
+   - DOI: 10.5281/zenodo.15874179
+   - Görüntülenme: 91, İndirilme: 77
+
+19. [Oresme](https://zenodo.org/records/15833239)
+   - DOI: 10.5281/zenodo.15833239
+   - Görüntülenme: 67, İndirilme: 56
+
+20. [Nodal-Line Semimetals: A Geometric Advantage in Quantum Information](https://zenodo.org/records/15821402)
+   - DOI: 10.5281/zenodo.15821402
+   - Görüntülenme: 135, İndirilme: 116
+
+21. [Weyl Semimetals: Discovery of Exotic Electronic States and Topological Phases](https://zenodo.org/records/15814163)
+   - DOI: 10.5281/zenodo.15814163
+   - Görüntülenme: 129, İndirilme: 150
+
+22. [Kütleçekimsel Dalga Gözlemleri ile Kuantum Bilgisayar Teknolojileri Arasındaki Teknolojik ve Metodolojik Bağlantılar](https://zenodo.org/records/15784849)
+   - DOI: 10.5281/zenodo.15784849
+   - Görüntülenme: 100, İndirilme: 62
+
+23. [The Relationship Between Gravitational Wave Observations and Quantum Computing Technologies](https://zenodo.org/records/15784848)
+   - DOI: 10.5281/zenodo.15784848
+   - Görüntülenme: 128, İndirilme: 112
+
+24. [Scalable Complexity: Mathematical Analysis and Potential for Physical Applications of the Keçeci Circle Fractal](https://zenodo.org/records/15778442)
+   - DOI: 10.5281/zenodo.15778442
+   - Görüntülenme: 371, İndirilme: 310
+
+25. [kececifractals](https://zenodo.org/records/15775380)
+   - DOI: 10.5281/zenodo.15775380
+   - Görüntülenme: 117, İndirilme: 162
+
+26. [Keçeci Layout](https://zenodo.org/records/15747336)
+   - DOI: 10.5281/zenodo.15747336
+   - Görüntülenme: 187, İndirilme: 124
+
+27. [The Keçeci Binomial Square: A Reinterpretation of the Standard Binomial Expansion and Its Potential Applications](https://zenodo.org/records/15711301)
+   - DOI: 10.5281/zenodo.15711301
+   - Görüntülenme: 137, İndirilme: 168
+
+28. [Çoklu İşlemci Mimarilerinde Kuantum Algoritma Simülasyonlarının Hızlandırılması: Cython, Numba ve Jax ile Optimizasyon Teknikleri](https://zenodo.org/records/15592206)
+   - DOI: 10.5281/zenodo.15592206
+   - Görüntülenme: 33, İndirilme: 24
+
+29. [Kuantum Hata Düzeltmede Metrik Seçimi ve Algoritmik Optimizasyonun Büyük Ölçekli Yüzey Kodları Üzerindeki Etkileri](https://zenodo.org/records/15589888)
+   - DOI: 10.5281/zenodo.15589888
+   - Görüntülenme: 74, İndirilme: 44
+
+30. [Keçeci Numbers and the Keçeci Prime Number: A Potential Number Theoretic Exploratory Tool](https://zenodo.org/records/15589625)
+   - DOI: 10.5281/zenodo.15589625
+   - Görüntülenme: 173, İndirilme: 99
+
+31. [Kuantum Hata Düzeltme Algoritmalarında Özyineleme Optimizasyonu ve Aşırı Gürültü Toleransı: Kuantum Sıçraması Potansiyelinin Değerlendirilmesi](https://zenodo.org/records/15570679)
+   - DOI: 10.5281/zenodo.15570679
+   - Görüntülenme: 19, İndirilme: 12
+
+32. [Yüksek Kübit Sayılı Kuantum Hesaplamada Ölçeklenebilirlik ve Hata Yönetimi: Yüzey Kodları, Topolojik Malzemeler ve Hibrit Algoritmik Yaklaşımlar](https://zenodo.org/records/15570648)
+   - DOI: 10.5281/zenodo.15570648
+   - Görüntülenme: 50, İndirilme: 39
+
+33. [Künneth Teoremi Bağlamında Özdevinimli ve Evrişimli Kuantum Algoritmalarında Yapay Zekâ Entegrasyonu ile Hata Minimizasyonu](https://zenodo.org/records/15540876)
+   - DOI: 10.5281/zenodo.15540876
+   - Görüntülenme: 87, İndirilme: 54
+
+34. [Accuracy, Noise, and Scalability in Quantum Computation: Strategies for the NISQ Era and Beyond](https://zenodo.org/records/15515114)
+   - DOI: 10.5281/zenodo.15515114
+   - Görüntülenme: 63, İndirilme: 21
+
+35. [Quantum Error Correction Codes and Their Impact on Scalable Quantum Computation: Current Approaches and Future Perspectives](https://zenodo.org/records/15499658)
+   - DOI: 10.5281/zenodo.15499658
+   - Görüntülenme: 112, İndirilme: 86
+
+36. [Nanoscale Quantum Computers Fundamentals, Technologies, and Future Perspectives](https://zenodo.org/records/15493025)
+   - DOI: 10.5281/zenodo.15493025
+   - Görüntülenme: 93, İndirilme: 103
+
+37. [Diversity of Keçeci Numbers and Their Application to Prešić-Type Fixed-Point Iterations: A Numerical Exploration](https://zenodo.org/records/15483569)
+   - DOI: 10.5281/zenodo.15483569
+   - Görüntülenme: 138, İndirilme: 80
+
+38. [Kuantum Geometri, Topolojik Fazlar ve Yeni Matematiksel Yapılar: Disiplinlerarası Bir Perspektif](https://zenodo.org/records/15477257)
+   - DOI: 10.5281/zenodo.15477257
+   - Görüntülenme: 65, İndirilme: 37
+
+39. [From Majorana Fermions to Quantum Devices: The Role of Nanomaterials in the Second Quantum Era](https://zenodo.org/records/15425639)
+   - DOI: 10.5281/zenodo.15425639
+   - Görüntülenme: 211, İndirilme: 241
+
+40. [kececisquares](https://zenodo.org/records/15411671)
+   - DOI: 10.5281/zenodo.15411671
+   - Görüntülenme: 154, İndirilme: 47
+
+41. [Grikod2](https://zenodo.org/records/15352207)
+   - DOI: 10.5281/zenodo.15352207
+   - Görüntülenme: 136, İndirilme: 39
+
+42. [Grikod](https://zenodo.org/records/15351842)
+   - DOI: 10.5281/zenodo.15351842
+   - Görüntülenme: 661, İndirilme: 172
+
+43. [Resolution of the Vacuum Catastrophe from a New Quantum Scale and the Holographic Principle](https://zenodo.org/records/15320034)
+   - DOI: 10.5281/zenodo.15320034
+   - Görüntülenme: 4401, İndirilme: 5545
+
+44. [Towards a New Ethos of Science or a Reform of the Institution of Science? Merton Revisited and the Prospects of Institutionalizing the Research Values of Openness and Mutual Responsiveness](https://zenodo.org/records/12731194)
+   - DOI: 10.5380/nocsi.v0i6.95874
+   - Görüntülenme: 94, İndirilme: 148
+
+45. [Using serinus canaria species in pet therapy sessions, related to geriatric patients](https://zenodo.org/records/11094365)
+   - DOI: 10.5281/zenodo.11094365
+   - Görüntülenme: 151, İndirilme: 90
+
+46. [Unexpected synergies](https://zenodo.org/records/11040009)
+   - DOI: 10.5281/zenodo.11040009
+   - Görüntülenme: 84, İndirilme: 49
+
+47. [A Systematic Review and Meta-Analytical Assessment of Nanoparticle Applications in  Contaminated Water Treatment in Iraq (2010–2025)](https://zenodo.org/records/16883051)
+   - DOI: 10.5281/zenodo.16883051
+   - Görüntülenme: 1, İndirilme: 1
+
+48. [World Quantum Theory: A Unified Framework for Quantum and Classical Physics from a Frequency Perspective](https://zenodo.org/records/16884139)
+   - DOI: 10.5281/zenodo.16884139
+   - Görüntülenme: 1706, İndirilme: 2421
+
+49. [From Eddington Saturation to Black Hole Horizons – A Unified Geometric Framework](https://zenodo.org/records/16883748)
+   - DOI: 10.5281/zenodo.16883748
+   - Görüntülenme: 16, İndirilme: 44
+
+50. [A Single Collapse Threshold Linking Cosmology, Gravitation, and Decoherence: FE = 1 ⇐⇒ Senv = ℏ, Parameter-Free Predictions for CMB Peaks, Lensing, and Laboratory Tests](https://zenodo.org/records/16809429)
+   - DOI: 10.5281/zenodo.16809429
+   - Görüntülenme: 180, İndirilme: 239
+
+51. [AI-Driven Compliance Verification for Pharmaceutical Advertising: A Novel Approach Using Multi-Agent Systems](https://zenodo.org/records/16330076)
+   - DOI: 10.5281/zenodo.16330076
+   - Görüntülenme: 15, İndirilme: 27
+
+52. [Spectral Coherence and Geometric Reformulation of the Riemann Hypothesis via Torsion-Free Vector Waves](https://zenodo.org/records/15824378)
+   - DOI: 10.5281/zenodo.15824378
+   - Görüntülenme: 1072, İndirilme: 1696
+
+53. [A Unified Theoretical Framework Bridging Quantum Mechanics and Planetary Dynamics](https://zenodo.org/records/15240414)
+   - DOI: 10.5281/zenodo.15240414
+   - Görüntülenme: 72, İndirilme: 86
+
+54. [Unveiling the Ultimate Theory of Planetary Genesis: A Mathematical Resolution Fully Interpreting the Solar System and Beyond](https://zenodo.org/records/15234044)
+   - DOI: 10.5281/zenodo.15234044
+   - Görüntülenme: 198, İndirilme: 208
 ---
 
