@@ -4,7 +4,7 @@
 
 ---
 <h2>📊 Open Science Articles (OSAs) Community / Açık Bilim Makaleleri (ABM) Topluluğu</h2>
-<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2025-08-16 13:25:46</p>
+<p><strong>Last Updated / Güncellenme Zamanı:</strong> 2026-02-07 13:25:46</p>
 
 | İngilizce / English | Türkçe / Turkish |
 |---------------------|------------------|
