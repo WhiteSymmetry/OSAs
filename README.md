@@ -8,7 +8,7 @@
 
 | İngilizce / English | Türkçe / Turkish |
 |---------------------|------------------|
-| **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-08-16 13:25:46<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 87<br>- **Total Views:** 32577<br>- **Total Downloads:** 33797 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-08-16 13:25:46<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 54<br>- **Toplam Görüntülenme:** 32577<br>- **Toplam İndirme:** 33797 |
+| **📊 Open Science Articles (OSAs) Community**<br>**Last Updated:** 2025-08-16 13:25:46<br><br>**📦 General Statistics**<br>- **Total Number of Articles:** 87<br>- **Total Views:** 32577<br>- **Total Downloads:** 33797 | **📊 Açık Bilim Makaleleri (ABM) Topluluğu**<br>**Güncellenme Zamanı:** 2025-08-16 13:25:46<br><br>**📦 Genel İstatistikler**<br>- **Toplam Makale Sayısı:** 57<br>- **Toplam Görüntülenme:** 32577<br>- **Toplam İndirme:** 33797 |
 ---
 
 # 📊 Bilginomi Topluluğu İstatistik Raporu
