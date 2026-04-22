@@ -1,4 +1,4 @@
-# 📘 Open Science Articles (OSAs)
+# 📘 Open Science Articles (OSAs): Open Sci. Artic.(OSAs)
 
 ### [Open Science Articles (OSAs) Community Link](https://zenodo.org/communities/bilginomi/records)
 
